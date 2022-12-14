@@ -15,4 +15,4 @@ To be done later, using BH1750 light intensity sensor.
 To be done later, using ENC28J60 ethernet module to sniff data from solar inverter using LAN communication.
 
 ## UI
-![Capture](Capture.PNG)
+![Capture](assets/Capture.PNG)
