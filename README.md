@@ -16,3 +16,7 @@ To be done later, using ENC28J60 ethernet module to sniff data from solar invert
 
 ## UI
 ![Capture](assets/Capture.PNG)
+
+* I'm using the three ON/OFF buttons to control the relay modules.
+* The floating green button on the bottom right is to check the state of each relay by getting data from the ESP8266 through firebase and then refresh the app.
+* The chart will be showing the realtime data of sunlight intensity from 5:00 AM to 7:00 PM.
